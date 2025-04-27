@@ -1,0 +1,71 @@
+body {
+    background-color: #fff8f0; /* cor de fundo clara */
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+  }
+
+  /* Título estilizado */
+  h1 {
+    text-align: center;
+    color: #d35400; /* laranja quente */
+    font-family: 'Georgia', serif;
+    font-size: 3em;
+  }
+  .descricao {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 1.2em;
+    color: #5d4037; /* marrom mais escuro */
+  }
+
+  .section {
+    margin-bottom: 30px;
+  }
+  .section h2 {
+    color: #e67e22;
+    border-bottom: 2px solid #e67e22;
+    padding-bottom: 5px;
+  }
+  .menu {
+    border: 3px solid #e67e22; /* borda laranja */
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fff3e0; /* fundo clarinho */
+  }
+  .menu-item {
+    background-color: #ffe0b2;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  }
+  .menu-item h3 {
+    margin: 0;
+    color: #d35400;
+  }
+  .menu-item p {
+    margin: 5px 0 0 0;
+    color: #555;
+  }
+  .logo-truck {
+    display: block;
+    margin: 0 auto 10px auto;
+    width: 120px; /* tamanho pequeno, tipo logo */
+    height: auto;
+    border-radius: 10px;
+  }
+  footer {
+    background-color: #e67e22;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 1em;
+  }
+
+  footer p {
+    margin: 5px 0;
+    font-family: sans-serif;
+  }
